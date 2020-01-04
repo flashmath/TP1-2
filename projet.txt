@@ -1,6 +1,6 @@
-Test
+Test de projet
 
 2019-2020
 
 Essai de Git pour le projet
-sans doute conflit
+plus de conflit
